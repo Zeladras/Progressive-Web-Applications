@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png">
+  <img src="C:\Users\nbaue\bootcamp\Progressive-Web-Applications\Develop\client\src\images\logo.png">
 </p>
 
 # Assignment Week 19
